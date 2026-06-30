@@ -1,5 +1,7 @@
 Index Number: AS20240979
 
-Hosted Portfolio Link: [ඔයාගේ Portfolio Website Link]
+Hosted Portfolio Link: https://thanushi979.github.io/portfolio/
 
 GitHub Repository Link: https://github.com/Thanushi979/portfolio.git
+
+
